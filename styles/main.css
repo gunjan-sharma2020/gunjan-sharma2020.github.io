@@ -8,3 +8,9 @@ body {
 a:visited {
     color: #33FFF1;
 }
+
+
+p.solid {
+    border-style: solid;
+}
+
