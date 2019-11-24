@@ -1,16 +1,80 @@
 
 body {
+    
     background-color: black;
     color: white;
     text-align: center;
 }
 
+.mainbox {
+    background-color: lightblue;
+    width: 500px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+    color: black;
+    align-content: center;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+  
+    }
+
+.mainimg {
+  
+  float: left;
+    
+}
+
+
 a:visited {
-    color: #33FFF1;
+    color: rgb(6, 129, 121);
 }
 
 
-p.solid {
-    border-style: solid;
-}
+h1 {
 
+    color: red;
+    
+}
+ div {
+    background-color: lightblue;
+    width: 400px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+    align-content: center;
+    color: black;
+    text-align: center;
+    display: inline-block;
+    }
+ 
+body {
+    background-color: black;
+}
+    
+div {
+    background-color: lightblue;
+    width: 300px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+    align-content: center;
+    color: black;
+    text-align: center;
+    display: inline-block;
+
+}
+    div {
+      margin: 20px;
+      border: 15px soli red;
+      
+      width: 300px;
+      padding: 50px;
+    }
+h1 {
+    color: red;
+}
