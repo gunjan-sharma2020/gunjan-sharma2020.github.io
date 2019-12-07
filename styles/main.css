@@ -1,7 +1,7 @@
 
 body {
     
-    background-color: black;
+    background-color:black;
     color: white;
     text-align: center;
 }
@@ -37,12 +37,12 @@ a:visited {
 
 h1 {
 
-    color: red;
+    color:  rgb(56, 4, 4);
     
 }
  div {
     background-color: lightblue;
-    width: 400px;
+    width: 500px;
     border: 15px solid red;
     padding: 50px;
     margin: 20px;
@@ -53,12 +53,13 @@ h1 {
     }
  
 body {
-    background-color: black;
+    background-color:rgb(6, 122, 112);
+
 }
     
 div {
     background-color: lightblue;
-    width: 300px;
+    width: 400px;
     border: 15px solid red;
     padding: 50px;
     margin: 20px;
@@ -70,11 +71,12 @@ div {
 }
     div {
       margin: 20px;
-      border: 15px soli red;
+      border: 15px soli rgb(238, 173, 120);
       
       width: 300px;
       padding: 50px;
     }
 h1 {
-    color: red;
+    color: rgb(56, 4, 4);
 }
+
